@@ -1,0 +1,7 @@
+{
+  "name": "GanadoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
